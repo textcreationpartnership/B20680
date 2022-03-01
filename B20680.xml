@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of a letter from the Lord Generall his quarters certifying, how the Lord Generalls horse brake through the Kings army, and how Major Generall Skippen fought like a lion and gained better conditions from the enemy then was expected, the Kings having before intended to put all our foot to the sword : also, a letter from the north of other proceedings in those parts.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20680</idno>
+            <idno type="STC">Wing C6125</idno>
+            <idno type="EEBO-CITATION">11937493</idno>
+            <idno type="OCLC">ocm 11937493</idno>
+            <idno type="VID">196456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196456)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 229:E8, no 22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of a letter from the Lord Generall his quarters certifying, how the Lord Generalls horse brake through the Kings army, and how Major Generall Skippen fought like a lion and gained better conditions from the enemy then was expected, the Kings having before intended to put all our foot to the sword : also, a letter from the north of other proceedings in those parts.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jane Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196456:1" rendition="simple:additions"/>
+            <p>THE COPIE OF <hi>A</hi> LETTER FROM <hi>The Lord</hi> Generall <hi>His quarters.</hi>
+            </p>
+            <p>CERTIFYING, How the Lord GENERALS Horſe brake through the Kings Army; and how Major Generall <hi>Skippon</hi> fought like a Lion, and gained better conditions from the Enemy then was expected; the Kings F<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s having before intended to put all our Foot to the <hi>Sword.</hi>
+            </p>
+            <p>ALSO, A Letter from the North, of other proceedings in thoſe parts.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <add>Sept: 9<hi rend="sup">th</hi>
+               </add> LONDON, Printed by JANE COE. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:196456:2"/>
+            <pb facs="tcp:196456:2"/>
+            <head>THE COPPIE OF A LETTR From my Lord Generall his QUARTERS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>N <hi>Wedneſday</hi> the 21. of <hi>Auguſt</hi> 1644. the Kings whole Armie: both his own brigade, <hi>Maurices</hi> and <hi>Green<g ref="char:EOLhyphen"/>vils</hi> were all drawn into the field in a battalia, ſuppoſed to be about 30000. And the Lord Generalls Army being onely about, 10000. horſe and foot, we likewiſe drew out into the field. The Kings Army appeared in a whole body in the forme of a halfe Moon, within a mile of Liſtlehall, the Kings forces with this great body marched up within Musket ſhot of the Lord Generalls Armie, about 4. of the Clocke in the morning, my Lord Generalls Army began to play their Ordnance againſt them, and it is cononceived did good execution: The fight held all that day between the Ordnance and the Muskettires, and is conceived our men did good execution: upon the Ene<g ref="char:EOLhyphen"/>mie, and at night ſome ſhor on both ſides were made by the Muſquetiers. On Thur<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>day night the Enemie caſt up an Halfe Moon upon the Beake hill, on which they planted two or three peece of or<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nance and played all the next day being Friday upon our bodie.</p>
+            <pb facs="tcp:196456:3"/>
+            <p>On S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rday Auguſt the 24. Sergeant Major Generall <hi>Whithcot</hi> with the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Regiment, and Collonel <hi>Wares</hi> of the White Regiment, and the blew <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>giment of the Lord Generals, taking into conſideration that the gaining of <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>itheel River would be very advantagious to our Army, by ſtopping up of the water, to make a Dam to hinder proviſion from paſſing that way to the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Army, drew out their men to ambuſcado the hedges, and the ſouldiers themſelves wrought the mean while to raiſe the Banks, and made a compleat D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m; which was finiſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by Tueſday following.</p>
+            <p>O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unday the 25. of Auguſt, the Kings forces made ſome ſhot with ſmall P<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and were anſwered again from ours; and that with great courage from Collonel <hi>Gower</hi> of the red Regiment, and divers others.</p>
+            <p>Major Generall <hi>Skippon</hi> was ſhot in the right hand, but onely a bruſh, and tore his Buffe coat on that on that ſide, but no great hurt God be praiſed, On the Kings party Colonell <hi>Chapernoone</hi> was ſhet in the head, and taken priſoner, ſuppoſed to be mortally wounded.</p>
+            <p>On Munday the 26. of Auguſt, both partees ſtill played each upon other, but ſtill we found that although my Lord Generall was fewer in number, yet my Lords forces made many more ſhot then the Kings, and eſpecially my Lord Generals warning Piece, which played continually.</p>
+            <p>On Tueſday the 27. of Auguſt, the Enemy having drawn themſelves off the day before about 3000. horſe and foot, that partee marched towards a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lace call<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Bl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> Bridge, about three miles from Leſtitheel, which they did, to ſtop the paſſage of Proviſion from Milly-Billy Bay if they could, from comming, to my Lord Generall; for by taking it, my Lord could not have proviſions, but by breaking through them. We had at that time not a<g ref="char:EOLhyphen"/>bove <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0 or thereabouts to guard the Bridge, which they made good till relief came, againſt all the ſtrength of the Enemy. There hath been great bic<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ering about this Bridge, and indeed a good partee came up to aſſiſt our forces there, who then plaid upon the Enemy with great courage, and it is believed ſlew many.</p>
+            <p>My Lord Generall ſent 1000. horſe and 1000. foot of commanded men, to maintain Blazey bridge, the Enemy lying of one ſide the water, and ours of the other; on out part Sergeant Major <hi>Skippon</hi> commanded in chief, there was alſo Captain <hi>Cromwell</hi> of foot, and of horſe Major Generall <hi>Berry,</hi> and others:</p>
+            <p>After our horſe and ſoot had made good <hi>Blazey</hi> bridge many dayes, and the reſt Defended themſelues againſt ſo, numerous a companie of the Kings forc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s for almoſt 20 daies, in continuall skirmiſhing, and no forces
+<pb facs="tcp:196456:3"/> were come to relieve my Lord Generall, a great number of the kings forſes fell upon four Regiments of ours, which cauſed three of them to retreat, and the fourth, which were Colonell <hi>Wares,</hi> new leavied forces ran away, but the London foot ſtood gallantly to it, Major Generall <hi>Skippon</hi> fought like a <hi>Lyon:</hi> My Lord Generall engaged himſelf ſo much all this while, of ſo many dayes skirmiſhing, that now his EXCELLENCI<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was conſtrained to remove his quarters, whereby hee gained an opportunity to go to Plimouth himſelf, where his Excellencie is ſafe with the Lord <hi>Roberts</hi> and others, from whence his Excellencie intends to come to Portchmouth. They then called a Counſell of War, and as it was by the ſaid Counſell concluded, the horſe brake through the Kings forces, and the Enemie ha<g ref="char:EOLhyphen"/>ving incompaſſes 30. and odd of our foot, who cryed for quarter, the Enemie cryed out as with one voyce, <hi>Put all to the ſword, all to the ſword,</hi> and accordingly did they maſſacre all of them but two, who got away and c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me to the reſt of our foot, and told them how the Kings forces were reſolved to put all to the ſword, our foot ſtill ſtanding out, and fighting with great cou<g ref="char:EOLhyphen"/>rage: So that Major generall <hi>Skippon</hi> gained better Conditions from the Enemie, then was expected: And had ſuccour, all this time been ſent to my Lord Generall, he had not been with his Army in this condition, who was himſelfe ſo carefull in the Defending of his Army: and ſtood out againſt the Enemie ſo long expecting relief: that had he not that night Changed his quarters he had been taken priſoner. But ſeeing that it hath pleaſed God that we have ſuſtained this loſſe, (which I hope through Gods providence will turne to his honour, and our good) I hope thoſe forces that are to march up to the Weſt, will haſten the more, to prevent further miſchief, by the Enemie.</p>
+            <p>We have had many experiences of Gods love, in all places of the King<g ref="char:EOLhyphen"/>dome, and how the Lord hath done great things for us, when we have been very low, and although we have had theſe loſſes as we may apprehend it may be much to our hurt, but Gods waies are not our waies, the Lord can turne it to good: when Gods time of Deliverance is come I am confiden<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that all the Cavaliers in England, all the Rebels of Ireland, and all the Po<g ref="char:EOLhyphen"/>piſh prieſts, Fryers, Jeſuites, and Papiſts in all their Armies, cannot be able to ſtand before him. God is all ſufficien if we have but hearts to truſt him, he will ſave us: Thus in haſt I reſt.</p>
+            <closer>
+               <signed>Your humble <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Servant.</signed>
+               <dateline>Plimouth <date>the 3. of Septem<g ref="char:EOLhyphen"/>ber. 16<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:196456:4"/>
+            <head>A Letter From a Commander of Note in the Leagure before <hi>Pomfret.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>COlonell <hi>Sands</hi> Commander in chief, of the forces before Pomphret Caſtle, Marched with his own Regiment, conſisting of ſeven Troopes of horſe to Kippax, within ſix miles of Pomſret caſtle, where we had notice that the Ene<g ref="char:EOLhyphen"/>my had drawn out four hundred horſe and foot, intending to have fallen upon our quarters, but we drew that night into the field, and planted our ſelves in ſo con<g ref="char:EOLhyphen"/>venient a place, that had they fallen upon our quarters, where our Colonell onely left enough to draw them on with the geater eagerneſſe; We had fallen into the flank &amp; rear of them, But I fear the Malignants and ill affected of the Countrey gave them notice in what a poſture we were. Not hearing of them we marched. and took up our quarters that night at Brotherton, within two miles of the caſtle, and drew about two of the clock into the field, and marched towards the caſtle, and planted our ſelves within Halfe-cannon ſhot of them, under a hill. We marched about the town, and faced them the greateſt part of that day, but not be<g ref="char:EOLhyphen"/>ing able to draw them forth; we withdrew and quartered that night at Medley where we joyned Eight troops of horſe more, &amp; marched next day to the caſtle. The Enemie then drew forth both Horſe and foot, and with their Horſe ſkirmiſhed the greateſt part of that day with us, we forced them ſeverall times that day to retreat, but the hedges being lined with Muſqueteeres, we were enforc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to for<g ref="char:EOLhyphen"/>bear the purſuite: But towards the Evening, having pulled down ſome hedges our <hi>Colonell</hi> ſent a party of horſe (being under their cannon) to fall in the rear of their Ambaſcade, both of horſe and foot, which they perceiving ſtayed not to make a retreat, but ſhamefully ran; We purſued them to the caſtle gates, and kil<g ref="char:EOLhyphen"/>led there a Lieuetenant and four Voluntiers of quality: Sir <hi>John Redmayns</hi> ſon narrowly eſcaped, and was forced to leave his Horſe and Armes behinde him
+<pb facs="tcp:196456:4"/> and eſcaped on foote, wee wounded many, and took twelve priſoners, two of them being chief Gunners of the caſtle, which came out with the Muſqueteeres, all the loſſe on our ſide, was one Captain ſlightly cut in the head, one wounded and one ta<g ref="char:EOLhyphen"/>ken priſoner. VVe had daily strong parties about them, and are ſtill facing of the Caſtle, that we may straighten them, and hinder them from plundering, pilla<g ref="char:EOLhyphen"/>ging and moleſting the traffick<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Countie, which they did in a great meaſure, untill it pleaſed my Lord <hi>Fairfax</hi> to ſend us hither: That day that we ſcirmiſhed with them, we took (after we had beat them into the Caſtle) of their proviſions, <hi>100.</hi> Sheep, and <hi>40.</hi> Oxen, which our Colonell hath ſent to the Committee of York to be diſpeſed of for the publique uſe, and although our noble Colonell hath diſburſed a great deal of mony in this ſervice, yet he quits all private reſpects, and implies himſelfe wholly, to ſerve the Publique: VVe are now drawne with all our horſe before the Caſtle, and have fetched in the drafts of the <hi>Countrey,</hi> and are cary<g ref="char:EOLhyphen"/>ing into our own quarters all the the carne about the towne, which ſhall be diſ<g ref="char:EOLhyphen"/>poſed of as the <hi>Committee</hi> at York ſhall appoint. My Lord hath promiſed to ſend us both foot &amp; cannon; we doubt not then but to render the Honourble Houſes of Parliament a good account of this caſtle.</p>
+            <p>Our Canon are planted before Hemſley Caſtle and we hope ſpeedily to take it, I ſhall as often as I can give you notice of our proceedings in theſe parts, Sir <hi>Thomas Fairfax</hi> is moſt unfortunately ſhot in the ſhoulder, by a bullet from the Enemie in <hi>Hemſley</hi> Caſtle.</p>
+            <closer>
+               <signed>Your affection Friend:</signed>
+               <dateline>From before Pomfret, <date>29 of Auguſt. 1644. at 4. of the clocke in the afternoone.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <pb facs="tcp:196456:5"/>
+               <p>FOr other particulars, they are referred to a Commander of note who is comming from my Lord Generall with them. In the mean time, how<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver we have had ſo great a loſſe, yet have we cauſe to give God tha<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es that our loſſe is in our Artillery, and not in men: The Kings forces be<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g reſolved before, to put every man of them to the ſword; ſuch is their cruel<g ref="char:EOLhyphen"/>ty againſt honeſt true hearted Proteſtants. N<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> let us be diſcouraged for all this, for our extremity hath hitherto been Gods opportunity; and there<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e let all honeſt Proteſtants joyn hand, and heart, and purſe, and all we have, according to our Covenant; (and that without any more ſuch delayes) for the helping forward of the work of the Lord, againſt his and our cruell and bloud-thirſty Enemies.</p>
+               <p>And thus farre the Lord hath bleſſed the Parliaments endeavours towards the relief of the Lord Generall already, with a ſupply now going to him with Sir <hi>William Wallers</hi> own Forces, and 800. out of Kent well mounted and armed, which came to him on Thurſday laſt; 3800. of Generall <hi>Middle<g ref="char:EOLhyphen"/>tons</hi> horſe and dragoons, beſides foot, and thoſe which Sir <hi>William Waller</hi> expects from Chicheſter, Arundell, and the Iſle of Wight: Collonel <hi>M<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<g ref="char:EOLhyphen"/>ſeyes</hi> alſo, and the Forces of the Noble Earle of Mancheſter. God bleſſe them, and go along with them, to his glory; and the Peace, truth ſettlement, and comfort, of this poor diſtreſſed Kingdome.</p>
+            </postscript>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
